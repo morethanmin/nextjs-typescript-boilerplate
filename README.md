@@ -1,21 +1,36 @@
-## 회원가입 및 로그인 구현
+# nextjs-login-boilerplate-client
 
-## 프로젝트 설명
->로컬에서 회원가입 및 로그인과 SNS(카카오, 구글)로  
-회원가입 및 로그인을 하는 구현을 프론트와 백(서버)을 각 작업하여 구현하였습니다.
+NextJS, redux-toolkit을 이용한 login boilerplate의 client repository입니다.
 
-## 사용기술
+회원가입, 로그인, 로그아웃, oAuth(Kakao, google)를 구현하였습니다.
 
-**프론트**
+## Tech and libraries
+
+### client
 - React
 - Next.js
 - @reduxjs/toolkit
 - @emotion (css)
 - axios
 
-**백(서버)**
+### server
 - Node.js
 - express
 - MySQL
 - sequelize
 - passport
+
+## Getting started
+
+### Install
+
+```bash
+```
+
+## Note
+
+This project is ongoing.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md for details

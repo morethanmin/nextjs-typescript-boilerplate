@@ -1,8 +1,8 @@
-# nextjs-login-boilerplate-client
+# nextjs-typescript-boilerplate
 
 NextJS, redux-toolkit을 이용한 login boilerplate의 client repository입니다.
 
-회원가입, 로그인, 로그아웃, oAuth(Kakao, google)를 구현하였습니다.
+회원가입, 로그인, 로그아웃을 구현하였습니다.
 
 ## Tech and libraries
 
